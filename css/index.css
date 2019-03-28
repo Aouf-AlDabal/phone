@@ -1,0 +1,47 @@
+body {
+  background: #333333;
+  color: #ffffff;
+}
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.8;
+}
+
+#main-footer {
+  background: #000000;
+  color: #ffffff;
+}
+
+#faq .card {
+  border: #0c21e0;
+}
+
+#faq a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #ffffff;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon,
+.carousel-caption {
+  background-color: #343eca !important;
+}
+
+@media (min-width: 576px) {
+  .Mobile {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (min-width: 576px) { 
+  .aboutone1{
+    display: flex;
+    flex-direction: column;
+  }
+}
