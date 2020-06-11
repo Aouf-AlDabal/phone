@@ -57,16 +57,5 @@ body {
   background-color: #2b2d41 !important;
 }
 
-@media (min-width: 576px) {
-  .Mobile {
-    display: flex;
-    flex-direction: column;
-  }
-}
 
-@media (min-width: 576px) {
-  .aboutone1 {
-    display: flex;
-    flex-direction: column;
-  }
-}
+
