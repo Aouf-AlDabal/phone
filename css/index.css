@@ -14,7 +14,7 @@ body {
 }
 
 #faq .card {
-  border: #0c21e0;
+  border: #2b2d41;
 }
 
 #faq a {
@@ -27,10 +27,34 @@ body {
   background: #ffffff;
 }
 
+#aboutOne {
+  background-color: #2b2d41;
+}
+
+#abouttwo {
+  background-color: #2b2d41;
+}
+
+#aboutthree {
+  background-color: #2b2d41;
+}
+
+#aboutfour {
+  background-color: #2b2d41;
+}
+
+#about5 {
+  background-color: #2b2d41;
+}
+
+#about6 {
+  background-color: #2b2d41;
+}
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon,
 .carousel-caption {
-  background-color: #343eca !important;
+  background-color: #2b2d41 !important;
 }
 
 @media (min-width: 576px) {
@@ -39,8 +63,9 @@ body {
     flex-direction: column;
   }
 }
-@media (min-width: 576px) { 
-  .aboutone1{
+
+@media (min-width: 576px) {
+  .aboutone1 {
     display: flex;
     flex-direction: column;
   }
